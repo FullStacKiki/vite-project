@@ -4,7 +4,7 @@ import { defineConfig } from "vite"
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/port/",
+  base: "/vite-project/",
   plugins: [react()],
   resolve: {
     alias: {
