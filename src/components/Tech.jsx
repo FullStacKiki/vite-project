@@ -19,7 +19,8 @@ const slugs = [
   "sql",
   "shadcn/ui",
   "tailwindcss",
-  "magicui",
+  "c",
+
 ];
 
 export function IconCloudDemo() {
